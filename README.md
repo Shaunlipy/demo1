@@ -1,3 +1,6 @@
 # Demo
 
-## This is a simple demo
+## This is a demo
+
+A simple demo
+
